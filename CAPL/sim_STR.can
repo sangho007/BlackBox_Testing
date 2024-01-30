@@ -1,0 +1,33 @@
+﻿/*@!Encoding:65001*/
+includes
+{
+  
+}
+
+variables
+{
+  msTimer STR_01_10ms_Timer;
+  message STR_01_10ms STR_01_10ms;
+  byte STR_01_10ms_Timer_p = 10;
+}
+
+on start 
+{
+  setTimerCyclic(STR_01_10ms_Timer,STR_01_10ms_Timer_p,STR_01_10ms_Timer_p);
+}
+
+
+
+on timer STR_01_10ms_Timer 
+{
+  output(STR_01_10ms);
+}
+
+
+on sysvar STR::Steering_angle
+{
+  STR_01_10ms.Steering_angle = @this;
+}
+
+
+

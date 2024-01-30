@@ -1,0 +1,45 @@
+﻿/*@!Encoding:65001*/
+includes 
+{
+  
+}
+
+variables
+{
+  message IVS_Version_Req IVS_Version_Req_msg;
+  message UDS::Fault_sts_Req Fault_sts_Req_msg;
+  message Fault_sts_Rsp Fault_sts_Rsp_msg;
+
+}
+on sysvar_update UDS::SW_Version_Req
+{
+  IVS_Version_Req_msg.Software_Version_Request = @this;
+  if(@this)
+  {
+    output(IVS_Version_Req_msg);  
+  }
+  
+}
+
+on sysvar_update UDS::All_Fault_sts_req
+{
+  Fault_sts_Req_msg.All_Fault_sts_request = @this;
+  if(@this)
+  {
+    output(Fault_sts_Req_msg);  
+  }
+  
+}
+
+on sysvar_update UDS::All_Fault_clr_req
+{
+  Fault_sts_Req_msg.All_Fault_clr_request = @this;
+  if(@this)
+  {
+    output(Fault_sts_Req_msg);  
+  }
+  
+}
+
+
+

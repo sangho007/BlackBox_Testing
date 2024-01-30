@@ -1,0 +1,173 @@
+﻿/*@!Encoding:65001*/
+includes
+{
+  
+}
+
+variables
+{
+  message IVS_Version_Info IVS_Version_Info_msg;
+  
+  /**********Battery_percent_low*******/
+  int i = 0;
+  int ig_sts = 0;
+  int eng_sts = 0;
+  int batt_percent = 0;
+  int batt_percent_old = 0;
+
+  byte detect_flag = 0;
+  byte recover_flag = 0;
+  byte recover_29_flag = 0;
+  byte recover_30_flag = 0;
+  byte detect_cnt_100ms = 0;
+  byte recover_cnt_10ms = 0;
+  byte batt_percent_err = 0;
+  message Fault_sts_Rsp Fault_sts_Rsp_msg ;
+  /**********Battery_percent_low*******/
+}
+
+void MainTest()
+{
+  testReportAddEngineerInfo("Test Engineer : ", "SangHo Lee(lk4820asdf@gmail.com)");
+  Battery_Percenct_Low();
+
+  
+}
+
+testcase Battery_Percenct_Low(void)
+{
+  byte Test_Condition;
+  char str_buf[300];
+  
+  // set test case identification to "TC 1" and change test case title
+  TestCaseTitle("TC 1", "IVS BlackBox Test Case - Battery Percent Low");
+  
+  // add a description text to test case
+  TestCaseDescription("Test case is used to check the ability of the SUT to switch ");
+  TestCaseDescription("into the build-in diagnostic and test mode. The test case does ");
+  TestCaseDescription ("not change test settings within the deviar. \n");
+  
+  @sysvar:: UDS::SW_Version_Req = 1;
+  testWaitForTimeoutSilent(20);
+  
+  snprintf(str_buf, elcount(str_buf),  "SW Ver [%04d%02d%02d_%02d%02d%02d - %02d]",  IVS_Version_Info_msg.Year,
+  IVS_Version_Info_msg.Month,
+  IVS_Version_Info_msg.Date,
+  IVS_Version_Info_msg.Hour,
+  IVS_Version_Info_msg.Minute,
+  IVS_Version_Info_msg.Second,
+  IVS_Version_Info_msg.Software_Version);
+  
+  TestCaseDescription(str_buf);
+  
+  
+  
+  //진단 초기화 
+  //@sysvar::UDS::All_Fault_clr_req = 1;
+  testWaitForTimeoutSilent(10);
+  @sysvar::UDS::All_Fault_clr_req = 0;
+  testWaitForTimeoutSilent(10);
+  
+  
+  for(ig_sts = 1 ;ig_sts < 2; ig_sts++ ) 
+  {
+    for(eng_sts = 1; eng_sts < 3;eng_sts++)
+    {
+      // 사전조건 
+      @sysvar::ENG::Engine_sts = eng_sts;
+      @sysvar::IGN::Ignition_sts = ig_sts; 
+  
+      for(batt_percent = 0 ; batt_percent < 17; batt_percent++)
+      {
+          detect_flag = 0;
+          recover_flag = 0;
+          @sysvar::BMS::Batt_voltage = 9000 + (batt_percent - 1) * 60;                
+        
+          for(detect_cnt_100ms = 0 ;detect_cnt_100ms < 52; detect_cnt_100ms++)
+          {
+            @sysvar::UDS::All_Fault_sts_req = 1;
+            testWaitForTimeoutSilent(100);
+            
+            if((batt_percent_err == 2) && (ig_sts == 1) && (eng_sts == 1) && 
+                (detect_cnt_100ms >= 49) && (detect_cnt_100ms < 52) && (batt_percent <= 15))
+            {
+              testStep("1.0", "d");
+              detect_flag = 1;
+              testStepPass("1.0", "ig_sts = %d  eng_sts = %d batt = %d time = %d",ig_sts, eng_sts, batt_percent, detect_cnt_100ms);
+              break;
+            }    
+          }
+          if(!detect_flag)
+          {
+            testStep("1.0", "d");
+            testStepFail("1.0", "ig_sts = %d  eng_sts = %d batt = %d",ig_sts, eng_sts, batt_percent);
+          }
+          else
+          {
+            batt_percent_old = batt_percent;
+            batt_percent = 30;
+            @sysvar::BMS::Batt_voltage = 9000 + (batt_percent - 1) * 60;
+            
+            for(recover_cnt_10ms = 0; recover_cnt_10ms < 12; recover_cnt_10ms++)
+            {
+              @sysvar::UDS::All_Fault_sts_req = 1;
+              testWaitForTimeoutSilent(10);
+              
+              if((batt_percent_err == 1) && (ig_sts == 1) && (eng_sts == 1) && (batt_percent >= 30))
+              {
+                testStep("2.0","R");
+                recover_flag = 1;
+                testStepPass("2.0", "ig_sts = %d  eng_sts = %d, batt = %d",ig_sts, eng_sts, batt_percent);
+                break;
+              }
+            }
+            if(!recover_flag)
+            {
+              testStep("2.0","R");
+              testStepFail("2.0", "ig_sts = %d  eng_sts = %d, batt = %d",ig_sts, eng_sts, batt_percent);    
+            }
+            
+            if(detect_flag && recover_flag)
+            {
+              testStepPass("3.0", "ig_sts = %d  eng_sts = %d, batt = %d",ig_sts, eng_sts, batt_percent);  
+              testStep("4.0","IGN");
+              for(i = 0; i < 49 ; i++)
+              {
+                @sysvar::IGN::Ignition_sts = 0;
+                testWaitForTimeoutSilent(10);
+                @sysvar::IGN::Ignition_sts = 1;
+                testWaitForTimeoutSilent(10);
+              }
+              @sysvar::UDS::All_Fault_sts_req = 1;
+              testWaitForTimeoutSilent(10);
+              
+              if (batt_percent_err == 0)
+              {
+                testStepPass("4.0", "ig_sts = %d  eng_sts = %d, batt = %d i : %d",ig_sts, eng_sts, batt_percent, i);  
+              }
+              else
+              {
+                testStepFail("4.0", "ig_sts = %d  eng_sts = %d, batt = %d i : %d",ig_sts, eng_sts, batt_percent, i);  
+              }
+            } 
+            batt_percent = batt_percent_old;
+          }
+      }
+    }
+  }    
+}
+
+
+
+
+
+
+on message Fault_sts_Rsp
+{
+  batt_percent_err = this.BATT_Percent_Err_sts;
+}
+
+on message IVS_Version_Info 
+{
+  IVS_Version_Info_msg = this;
+}

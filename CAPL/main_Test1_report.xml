@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<testmodule starttime="2024-01-25 10:30:39" timestamp=" 152.417823" verdicts="2_basic" measurementid="2624549e-a85f-497e-bf1b-4ed005e44c97">
+  <testcase starttime="2024-01-25 10:30:39" timestamp=" 152.417823">
+    <teststep timestamp=" 157.557823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 157.557823" level="0" type="user" ident="1.0" result="pass">ig_sts = 1  eng_sts = 1 batt = 0 time = 50</teststep>
+    <teststep timestamp=" 157.667823" level="0" type="user" ident="2.0" result="na">R</teststep>
+    <teststep timestamp=" 157.667823" level="0" type="user" ident="2.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30</teststep>
+    <teststep timestamp=" 157.667823" level="0" type="user" ident="3.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30</teststep>
+    <teststep timestamp=" 157.667823" level="0" type="user" ident="4.0" result="na">IGN</teststep>
+    <teststep timestamp=" 158.657823" level="0" type="user" ident="4.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30 i : 49</teststep>
+    <teststep timestamp=" 163.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 163.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 1</teststep>
+    <teststep timestamp=" 169.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 169.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 2</teststep>
+    <teststep timestamp=" 174.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 174.057823" level="0" type="user" ident="1.0" result="pass">ig_sts = 1  eng_sts = 1 batt = 3 time = 49</teststep>
+    <teststep timestamp=" 174.067823" level="0" type="user" ident="2.0" result="na">R</teststep>
+    <teststep timestamp=" 174.067823" level="0" type="user" ident="2.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30</teststep>
+    <teststep timestamp=" 174.067823" level="0" type="user" ident="3.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30</teststep>
+    <teststep timestamp=" 174.067823" level="0" type="user" ident="4.0" result="na">IGN</teststep>
+    <teststep timestamp=" 175.057823" level="0" type="user" ident="4.0" result="pass">ig_sts = 1  eng_sts = 1, batt = 30 i : 49</teststep>
+    <teststep timestamp=" 180.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 180.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 4</teststep>
+    <teststep timestamp=" 185.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 185.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 5</teststep>
+    <teststep timestamp=" 190.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 190.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 6</teststep>
+    <teststep timestamp=" 195.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 195.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 7</teststep>
+    <teststep timestamp=" 201.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 201.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 8</teststep>
+    <teststep timestamp=" 206.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 206.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 9</teststep>
+    <teststep timestamp=" 211.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 211.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 10</teststep>
+    <teststep timestamp=" 216.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 216.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 11</teststep>
+    <teststep timestamp=" 221.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 221.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 12</teststep>
+    <teststep timestamp=" 227.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 227.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 13</teststep>
+    <teststep timestamp=" 232.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 232.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 14</teststep>
+    <teststep timestamp=" 237.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 237.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 15</teststep>
+    <teststep timestamp=" 242.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 242.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 16</teststep>
+    <teststep timestamp=" 247.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 247.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 0</teststep>
+    <teststep timestamp=" 253.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 253.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 1</teststep>
+    <teststep timestamp=" 258.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 258.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 2</teststep>
+    <teststep timestamp=" 263.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 263.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 3</teststep>
+    <teststep timestamp=" 268.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 268.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 4</teststep>
+    <teststep timestamp=" 273.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 273.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 5</teststep>
+    <teststep timestamp=" 279.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 279.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 6</teststep>
+    <teststep timestamp=" 284.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 284.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 7</teststep>
+    <teststep timestamp=" 289.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 289.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 8</teststep>
+    <teststep timestamp=" 294.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 294.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 9</teststep>
+    <teststep timestamp=" 299.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 299.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 10</teststep>
+    <teststep timestamp=" 305.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 305.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 11</teststep>
+    <teststep timestamp=" 310.257823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 310.257823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 12</teststep>
+    <teststep timestamp=" 315.457823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 315.457823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 13</teststep>
+    <teststep timestamp=" 320.657823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 320.657823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 14</teststep>
+    <teststep timestamp=" 325.857823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 325.857823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 15</teststep>
+    <teststep timestamp=" 331.057823" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp=" 331.057823" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 16</teststep>
+    <verdict time="2024-01-25 10:30:39" timestamp=" 163.857823" endtime="2024-01-25 10:30:41" endtimestamp=" 331.057823" result="fail" />
+    <title>IVS BlackBox Test Case - Battery Percent Low</title>
+    <ident>TC 1</ident>
+    <description>Test case is used to check the ability of the SUT to switch  into the build-in diagnostic and test mode. The test case does  not change test settings within the deviar. \n SW Ver [20240122_143248 - 02]</description>
+  </testcase>
+  <verdict time="2024-01-25 10:30:39" timestamp=" 163.857823" endtime="2024-01-25 10:30:41" endtimestamp=" 331.057823" result="fail" />
+  <title>TC1</title>
+  <testlogfiles>
+  </testlogfiles>
+  <engineer>
+    <xinfo>
+      <name>Windows Login Name</name>
+      <description>USER</description>
+    </xinfo>
+    <info>
+      <name>Test Engineer : </name>
+      <description>SangHo Lee(lk4820asdf@gmail.com)</description>
+    </info>
+  </engineer>
+  <testsetup>
+    <xinfo>
+      <name>Version</name>
+      <description>CANoe.CAN /pro 17.3.91 (SP3)</description>
+    </xinfo>
+    <xinfo>
+      <name>Configuration</name>
+      <description>C:\HL_BlackBox_testing\blackbox_test\blackbox_test.cfg</description>
+    </xinfo>
+    <xinfo>
+      <name>Database IVS_CANdb_Project on CAN</name>
+      <description>C:\Users\USER\Downloads\IVS_CANdb_Project.dbc (2024-01-23 09:55:14)</description>
+    </xinfo>
+    <xinfo>
+      <name>Test Module Name</name>
+      <description>TC1</description>
+    </xinfo>
+    <xinfo>
+      <name>Test Module File</name>
+      <description>C:\HL_BlackBox_testing\blackbox_test\CAPL\main_Test1.can</description>
+    </xinfo>
+    <xinfo>
+      <name>Last modification of Test Module File</name>
+      <description>2024-01-25, 10:30:34</description>
+    </xinfo>
+    <xinfo>
+      <name>Windows Computer Name</name>
+      <description>DESKTOP-AGMDB8M</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module CANoeILNLVector</name>
+      <description>CANoe Interaction Layer NL (Vector) Version 3.30.113 (Feb 16 2023 15:33:52) , c:\ProgramData\Vector\AddOn Packages\Vector AddOn\vModules\CANoe_14_0\Exec32\CANoeILNLVector.dll</description>
+    </xinfo>
+  </testsetup>
+  <extendedinfo type="html"><![CDATA[<b>Measurement was performed with simulation factor 0.01.</b>]]></extendedinfo>
+</testmodule>
+<!--footprint="6dd26ace823201f94305072f9a1f87c6" version="1"-->

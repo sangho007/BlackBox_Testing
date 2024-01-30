@@ -1,0 +1,99 @@
+﻿/*@!Encoding:65001*/
+includes
+{
+  
+}
+
+variables
+{
+  msTimer BATT_01_10ms_Timer;
+  msTimer BMS_1ms_timer;
+  message BATT_01_10ms BATT_01_10ms;
+  byte BATT_01_10ms_Timer_p = 10;
+  byte BMS_1ms_timer_p = 1;
+  byte Charge_1ms_cnt = 0;
+}
+
+on start 
+{
+  setTimerCyclic(BATT_01_10ms_Timer,BATT_01_10ms_Timer_p,BATT_01_10ms_Timer_p);
+  setTimerCyclic(BMS_1ms_timer,BMS_1ms_timer_p,BMS_1ms_timer_p);
+}
+
+on timer BATT_01_10ms_Timer 
+{
+  output(BATT_01_10ms);
+}
+
+on timer BMS_1ms_timer 
+{
+  Charge_1ms_cnt++;
+  
+  if(@sysvar::BMS::Batt_Chg_Sts == 1)
+  {
+    if(Charge_1ms_cnt % 3 == 0)
+    {
+      if(@sysvar::BMS::Batt_voltage != 20000)
+      {
+        @sysvar::BMS::Batt_voltage += 1;
+      }
+    }
+  }
+  else
+  {
+    if(Charge_1ms_cnt % 10 == 0)
+    {
+      if(@sysvar::BMS::Batt_voltage != 0)
+      {
+        @sysvar::BMS::Batt_voltage -= 1;
+      }
+    }
+  }
+  
+  // 30 모듈로 카운터 
+  Charge_1ms_cnt %= 30;
+  
+}
+
+
+on sysvar BMS::Batt_Chg_Sts
+{
+  BATT_01_10ms.Batt_Chg_Sts = @this;  
+}
+
+on sysvar BMS::Batt_percent
+{
+  BATT_01_10ms.Batt_Percent = @this;
+  
+  // 충전상태
+  
+  if((@sysvar::IGN::Ignition_sts == 1) && (@sysvar::BMS::Batt_percent < 80))
+  {
+    @sysvar::BMS::Batt_Chg_Sts = 1;  
+  }
+  else
+  {
+    @sysvar::BMS::Batt_Chg_Sts = 0;
+  }
+  
+}
+
+on sysvar BMS::Batt_voltage
+{
+  BATT_01_10ms.Batt_Voltage = @this;
+  
+  // 배터리 퍼센트 설정 
+  if(@this < 9000)
+  {
+    @sysvar::BMS::Batt_percent = 0;
+  }
+  else if ((@this >= 9000) && (@this < 14940))
+  {
+    @sysvar::BMS::Batt_percent = ((@this - 9000) / 60) +1;
+  }
+  else
+  {
+    @sysvar::BMS::Batt_percent = 100;
+  }
+}
+

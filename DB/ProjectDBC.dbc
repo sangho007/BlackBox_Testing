@@ -1,0 +1,83 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: UDS BRK STR ENG BMS
+
+
+BO_ 1365 Fault_sts_Req: 8 Vector__XXX
+ SG_ All_Fault_sts_request : 0|1@1+ (1,0) [0|0] "NA"  UDS
+ SG_ All_Fault_clr_request : 8|1@1+ (1,0) [0|0] "NA"  UDS
+
+BO_ 1364 IVS_Version_Req: 8 Vector__XXX
+ SG_ SW_Version_Request : 0|1@1+ (1,0) [0|0] "NA"  UDS
+
+BO_ 1092 BRK_01_10ms: 8 Vector__XXX
+ SG_ Vehicle_Speed : 16|8@1+ (1,0) [0|0] "km/h"  BRK
+ SG_ ACCEL_press : 8|7@1+ (1,0) [0|0] "%"  BRK
+ SG_ Brake_press : 0|7@1+ (1,0) [0|0] "%"  BRK
+
+BO_ 819 STR_01_10ms: 8 Vector__XXX
+ SG_ Steering_angle : 0|12@1- (1,0) [0|0] "degree"  STR
+
+BO_ 547 ENG_02_10ms: 8 Vector__XXX
+ SG_ Engine_sts : 0|2@1+ (1,0) [0|0] "NA"  ENG
+
+BO_ 546 IGN_01_2ms: 8 Vector__XXX
+ SG_ Ignition_sts : 0|1@1+ (1,0) [0|0] "NA"  ENG
+
+BO_ 273 BATT_01_10ms: 8 Vector__XXX
+ SG_ Batt_Voltage : 8|15@1+ (0.001,0) [0|0] "V"  BMS
+ SG_ Batt_Percent : 0|7@1+ (1,0) [0|0] "&"  BMS
+ SG_ Batt_Chg_Sts : 7|1@1+ (1,0) [0|0] "NA"  BMS
+
+
+
+CM_ SG_ 1365 All_Fault_sts_request "모든 고장 상태 요청";
+CM_ SG_ 1365 All_Fault_clr_request "모든 고장 삭제 요청";
+CM_ SG_ 1364 SW_Version_Request "Software Version 정보 요청";
+CM_ SG_ 1092 Vehicle_Speed "차량속도";
+CM_ SG_ 1092 ACCEL_press "악셀 압력";
+CM_ SG_ 1092 Brake_press "브레이크 압력";
+CM_ SG_ 819 Steering_angle "핸들 각도";
+CM_ SG_ 547 Engine_sts "엔진 시동 상태";
+CM_ SG_ 546 Ignition_sts "엔진 시동 상태";
+CM_ SG_ 273 Batt_Voltage "배터리전압값";
+CM_ SG_ 273 Batt_Percent "배터리충전량";
+CM_ SG_ 273 Batt_Chg_Sts "배터리충전상태";
+BA_DEF_  "MultiplexExtEnabled" ENUM  "No","Yes";
+BA_DEF_  "BusType" STRING ;
+BA_DEF_DEF_  "MultiplexExtEnabled" "No";
+BA_DEF_DEF_  "BusType" "";
+

@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<testmodule starttime="2024-01-25 04:40:51" timestamp="1723.767774" verdicts="2_basic" measurementid="c280e756-0f92-48fa-a641-a03435537edd">
+  <testcase starttime="2024-01-25 04:40:51" timestamp="1723.767774">
+    <teststep timestamp="1729.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1729.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 0</teststep>
+    <teststep timestamp="1734.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1734.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 1</teststep>
+    <teststep timestamp="1739.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1739.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 2</teststep>
+    <teststep timestamp="1744.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1744.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 3</teststep>
+    <teststep timestamp="1749.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1749.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 4</teststep>
+    <teststep timestamp="1755.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1755.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 5</teststep>
+    <teststep timestamp="1760.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1760.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 6</teststep>
+    <teststep timestamp="1765.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1765.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 7</teststep>
+    <teststep timestamp="1770.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1770.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 8</teststep>
+    <teststep timestamp="1776.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1776.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 9</teststep>
+    <teststep timestamp="1781.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1781.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 10</teststep>
+    <teststep timestamp="1786.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1786.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 11</teststep>
+    <teststep timestamp="1791.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1791.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 12</teststep>
+    <teststep timestamp="1797.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1797.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 13</teststep>
+    <teststep timestamp="1802.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1802.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 14</teststep>
+    <teststep timestamp="1807.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1807.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 15</teststep>
+    <teststep timestamp="1812.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1812.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 16</teststep>
+    <teststep timestamp="1818.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1818.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 17</teststep>
+    <teststep timestamp="1823.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1823.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 18</teststep>
+    <teststep timestamp="1828.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1828.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 19</teststep>
+    <teststep timestamp="1833.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1833.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 20</teststep>
+    <teststep timestamp="1839.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1839.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 21</teststep>
+    <teststep timestamp="1844.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1844.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 22</teststep>
+    <teststep timestamp="1849.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1849.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 23</teststep>
+    <teststep timestamp="1854.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1854.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 24</teststep>
+    <teststep timestamp="1860.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1860.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 25</teststep>
+    <teststep timestamp="1865.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1865.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 26</teststep>
+    <teststep timestamp="1870.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1870.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 27</teststep>
+    <teststep timestamp="1875.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1875.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 28</teststep>
+    <teststep timestamp="1880.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1880.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 29</teststep>
+    <teststep timestamp="1886.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1886.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 30</teststep>
+    <teststep timestamp="1891.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1891.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 31</teststep>
+    <teststep timestamp="1896.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1896.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 32</teststep>
+    <teststep timestamp="1901.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1901.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 33</teststep>
+    <teststep timestamp="1907.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1907.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 34</teststep>
+    <teststep timestamp="1912.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1912.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 35</teststep>
+    <teststep timestamp="1917.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1917.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 36</teststep>
+    <teststep timestamp="1922.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1922.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 37</teststep>
+    <teststep timestamp="1928.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1928.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 38</teststep>
+    <teststep timestamp="1933.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1933.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 39</teststep>
+    <teststep timestamp="1938.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1938.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 40</teststep>
+    <teststep timestamp="1943.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1943.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 41</teststep>
+    <teststep timestamp="1949.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1949.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 42</teststep>
+    <teststep timestamp="1954.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1954.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 43</teststep>
+    <teststep timestamp="1959.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1959.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 44</teststep>
+    <teststep timestamp="1964.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1964.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 45</teststep>
+    <teststep timestamp="1970.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1970.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 46</teststep>
+    <teststep timestamp="1975.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1975.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 47</teststep>
+    <teststep timestamp="1980.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1980.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 48</teststep>
+    <teststep timestamp="1985.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1985.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 49</teststep>
+    <teststep timestamp="1991.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1991.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 50</teststep>
+    <teststep timestamp="1996.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="1996.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 51</teststep>
+    <teststep timestamp="2001.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2001.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 52</teststep>
+    <teststep timestamp="2006.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2006.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 53</teststep>
+    <teststep timestamp="2011.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2011.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 54</teststep>
+    <teststep timestamp="2017.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2017.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 55</teststep>
+    <teststep timestamp="2022.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2022.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 56</teststep>
+    <teststep timestamp="2027.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2027.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 57</teststep>
+    <teststep timestamp="2032.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2032.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 58</teststep>
+    <teststep timestamp="2038.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2038.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 59</teststep>
+    <teststep timestamp="2043.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2043.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 60</teststep>
+    <teststep timestamp="2048.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2048.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 61</teststep>
+    <teststep timestamp="2053.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2053.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 62</teststep>
+    <teststep timestamp="2059.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2059.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 63</teststep>
+    <teststep timestamp="2064.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2064.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 64</teststep>
+    <teststep timestamp="2069.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2069.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 65</teststep>
+    <teststep timestamp="2074.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2074.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 66</teststep>
+    <teststep timestamp="2080.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2080.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 67</teststep>
+    <teststep timestamp="2085.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2085.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 68</teststep>
+    <teststep timestamp="2090.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2090.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 69</teststep>
+    <teststep timestamp="2095.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2095.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 70</teststep>
+    <teststep timestamp="2101.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2101.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 71</teststep>
+    <teststep timestamp="2106.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2106.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 72</teststep>
+    <teststep timestamp="2111.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2111.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 73</teststep>
+    <teststep timestamp="2116.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2116.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 74</teststep>
+    <teststep timestamp="2122.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2122.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 75</teststep>
+    <teststep timestamp="2127.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2127.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 76</teststep>
+    <teststep timestamp="2132.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2132.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 77</teststep>
+    <teststep timestamp="2137.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2137.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 78</teststep>
+    <teststep timestamp="2142.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2142.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 79</teststep>
+    <teststep timestamp="2148.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2148.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 80</teststep>
+    <teststep timestamp="2153.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2153.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 81</teststep>
+    <teststep timestamp="2158.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2158.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 82</teststep>
+    <teststep timestamp="2163.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2163.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 83</teststep>
+    <teststep timestamp="2169.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2169.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 84</teststep>
+    <teststep timestamp="2174.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2174.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 85</teststep>
+    <teststep timestamp="2179.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2179.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 86</teststep>
+    <teststep timestamp="2184.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2184.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 87</teststep>
+    <teststep timestamp="2190.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2190.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 88</teststep>
+    <teststep timestamp="2195.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2195.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 89</teststep>
+    <teststep timestamp="2200.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2200.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 90</teststep>
+    <teststep timestamp="2205.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2205.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 91</teststep>
+    <teststep timestamp="2211.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2211.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 92</teststep>
+    <teststep timestamp="2216.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2216.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 93</teststep>
+    <teststep timestamp="2221.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2221.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 94</teststep>
+    <teststep timestamp="2226.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2226.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 95</teststep>
+    <teststep timestamp="2232.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2232.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 96</teststep>
+    <teststep timestamp="2237.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2237.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 97</teststep>
+    <teststep timestamp="2242.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2242.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 98</teststep>
+    <teststep timestamp="2247.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2247.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 99</teststep>
+    <teststep timestamp="2253.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2253.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 0 batt = 100</teststep>
+    <teststep timestamp="2258.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2258.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 0</teststep>
+    <teststep timestamp="2263.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2263.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 1</teststep>
+    <teststep timestamp="2268.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2268.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 2</teststep>
+    <teststep timestamp="2273.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2273.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 3</teststep>
+    <teststep timestamp="2279.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2279.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 4</teststep>
+    <teststep timestamp="2284.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2284.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 5</teststep>
+    <teststep timestamp="2289.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2289.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 6</teststep>
+    <teststep timestamp="2294.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2294.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 7</teststep>
+    <teststep timestamp="2300.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2300.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 8</teststep>
+    <teststep timestamp="2305.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2305.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 9</teststep>
+    <teststep timestamp="2310.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2310.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 10</teststep>
+    <teststep timestamp="2315.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2315.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 11</teststep>
+    <teststep timestamp="2321.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2321.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 12</teststep>
+    <teststep timestamp="2326.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2326.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 13</teststep>
+    <teststep timestamp="2331.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2331.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 14</teststep>
+    <teststep timestamp="2336.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2336.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 15</teststep>
+    <teststep timestamp="2342.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2342.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 16</teststep>
+    <teststep timestamp="2347.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2347.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 17</teststep>
+    <teststep timestamp="2352.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2352.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 18</teststep>
+    <teststep timestamp="2357.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2357.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 19</teststep>
+    <teststep timestamp="2363.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2363.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 20</teststep>
+    <teststep timestamp="2368.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2368.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 21</teststep>
+    <teststep timestamp="2373.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2373.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 22</teststep>
+    <teststep timestamp="2378.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2378.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 23</teststep>
+    <teststep timestamp="2384.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2384.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 24</teststep>
+    <teststep timestamp="2389.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2389.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 25</teststep>
+    <teststep timestamp="2394.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2394.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 26</teststep>
+    <teststep timestamp="2399.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2399.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 27</teststep>
+    <teststep timestamp="2404.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2404.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 28</teststep>
+    <teststep timestamp="2410.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2410.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 29</teststep>
+    <teststep timestamp="2415.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2415.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 30</teststep>
+    <teststep timestamp="2420.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2420.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 31</teststep>
+    <teststep timestamp="2425.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2425.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 32</teststep>
+    <teststep timestamp="2431.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2431.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 33</teststep>
+    <teststep timestamp="2436.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2436.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 34</teststep>
+    <teststep timestamp="2441.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2441.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 35</teststep>
+    <teststep timestamp="2446.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2446.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 36</teststep>
+    <teststep timestamp="2452.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2452.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 37</teststep>
+    <teststep timestamp="2457.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2457.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 38</teststep>
+    <teststep timestamp="2462.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2462.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 39</teststep>
+    <teststep timestamp="2467.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2467.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 40</teststep>
+    <teststep timestamp="2473.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2473.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 41</teststep>
+    <teststep timestamp="2478.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2478.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 42</teststep>
+    <teststep timestamp="2483.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2483.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 43</teststep>
+    <teststep timestamp="2488.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2488.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 44</teststep>
+    <teststep timestamp="2494.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2494.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 45</teststep>
+    <teststep timestamp="2499.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2499.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 46</teststep>
+    <teststep timestamp="2504.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2504.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 47</teststep>
+    <teststep timestamp="2509.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2509.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 48</teststep>
+    <teststep timestamp="2515.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2515.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 49</teststep>
+    <teststep timestamp="2520.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2520.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 50</teststep>
+    <teststep timestamp="2525.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2525.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 51</teststep>
+    <teststep timestamp="2530.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2530.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 52</teststep>
+    <teststep timestamp="2535.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2535.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 53</teststep>
+    <teststep timestamp="2541.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2541.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 54</teststep>
+    <teststep timestamp="2546.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2546.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 55</teststep>
+    <teststep timestamp="2551.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2551.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 56</teststep>
+    <teststep timestamp="2556.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2556.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 57</teststep>
+    <teststep timestamp="2562.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2562.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 58</teststep>
+    <teststep timestamp="2567.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2567.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 59</teststep>
+    <teststep timestamp="2572.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2572.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 60</teststep>
+    <teststep timestamp="2577.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2577.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 61</teststep>
+    <teststep timestamp="2583.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2583.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 62</teststep>
+    <teststep timestamp="2588.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2588.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 63</teststep>
+    <teststep timestamp="2593.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2593.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 64</teststep>
+    <teststep timestamp="2598.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2598.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 65</teststep>
+    <teststep timestamp="2604.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2604.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 66</teststep>
+    <teststep timestamp="2609.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2609.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 67</teststep>
+    <teststep timestamp="2614.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2614.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 68</teststep>
+    <teststep timestamp="2619.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2619.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 69</teststep>
+    <teststep timestamp="2625.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2625.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 70</teststep>
+    <teststep timestamp="2630.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2630.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 71</teststep>
+    <teststep timestamp="2635.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2635.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 72</teststep>
+    <teststep timestamp="2640.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2640.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 73</teststep>
+    <teststep timestamp="2646.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2646.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 74</teststep>
+    <teststep timestamp="2651.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2651.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 75</teststep>
+    <teststep timestamp="2656.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2656.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 76</teststep>
+    <teststep timestamp="2661.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2661.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 77</teststep>
+    <teststep timestamp="2666.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2666.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 78</teststep>
+    <teststep timestamp="2672.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2672.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 79</teststep>
+    <teststep timestamp="2677.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2677.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 80</teststep>
+    <teststep timestamp="2682.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2682.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 81</teststep>
+    <teststep timestamp="2687.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2687.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 82</teststep>
+    <teststep timestamp="2693.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2693.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 83</teststep>
+    <teststep timestamp="2698.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2698.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 84</teststep>
+    <teststep timestamp="2703.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2703.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 85</teststep>
+    <teststep timestamp="2708.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2708.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 86</teststep>
+    <teststep timestamp="2714.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2714.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 87</teststep>
+    <teststep timestamp="2719.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2719.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 88</teststep>
+    <teststep timestamp="2724.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2724.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 89</teststep>
+    <teststep timestamp="2729.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2729.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 90</teststep>
+    <teststep timestamp="2735.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2735.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 91</teststep>
+    <teststep timestamp="2740.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2740.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 92</teststep>
+    <teststep timestamp="2745.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2745.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 93</teststep>
+    <teststep timestamp="2750.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2750.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 94</teststep>
+    <teststep timestamp="2756.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2756.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 95</teststep>
+    <teststep timestamp="2761.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2761.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 96</teststep>
+    <teststep timestamp="2766.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2766.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 97</teststep>
+    <teststep timestamp="2771.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2771.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 98</teststep>
+    <teststep timestamp="2777.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2777.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 99</teststep>
+    <teststep timestamp="2782.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2782.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 1 batt = 100</teststep>
+    <teststep timestamp="2787.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2787.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 0</teststep>
+    <teststep timestamp="2792.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2792.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 1</teststep>
+    <teststep timestamp="2797.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2797.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 2</teststep>
+    <teststep timestamp="2803.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2803.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 3</teststep>
+    <teststep timestamp="2808.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2808.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 4</teststep>
+    <teststep timestamp="2813.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2813.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 5</teststep>
+    <teststep timestamp="2818.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2818.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 6</teststep>
+    <teststep timestamp="2824.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2824.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 7</teststep>
+    <teststep timestamp="2829.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2829.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 8</teststep>
+    <teststep timestamp="2834.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2834.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 9</teststep>
+    <teststep timestamp="2839.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2839.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 10</teststep>
+    <teststep timestamp="2845.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2845.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 11</teststep>
+    <teststep timestamp="2850.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2850.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 12</teststep>
+    <teststep timestamp="2855.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2855.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 13</teststep>
+    <teststep timestamp="2860.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2860.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 14</teststep>
+    <teststep timestamp="2866.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2866.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 15</teststep>
+    <teststep timestamp="2871.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2871.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 16</teststep>
+    <teststep timestamp="2876.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2876.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 17</teststep>
+    <teststep timestamp="2881.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2881.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 18</teststep>
+    <teststep timestamp="2887.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2887.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 19</teststep>
+    <teststep timestamp="2892.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2892.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 20</teststep>
+    <teststep timestamp="2897.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2897.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 21</teststep>
+    <teststep timestamp="2902.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2902.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 22</teststep>
+    <teststep timestamp="2908.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2908.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 23</teststep>
+    <teststep timestamp="2913.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2913.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 24</teststep>
+    <teststep timestamp="2918.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2918.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 25</teststep>
+    <teststep timestamp="2923.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2923.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 26</teststep>
+    <teststep timestamp="2928.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2928.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 27</teststep>
+    <teststep timestamp="2934.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2934.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 28</teststep>
+    <teststep timestamp="2939.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2939.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 29</teststep>
+    <teststep timestamp="2944.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2944.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 30</teststep>
+    <teststep timestamp="2949.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2949.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 31</teststep>
+    <teststep timestamp="2955.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2955.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 32</teststep>
+    <teststep timestamp="2960.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2960.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 33</teststep>
+    <teststep timestamp="2965.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2965.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 34</teststep>
+    <teststep timestamp="2970.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2970.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 35</teststep>
+    <teststep timestamp="2976.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2976.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 36</teststep>
+    <teststep timestamp="2981.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2981.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 37</teststep>
+    <teststep timestamp="2986.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2986.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 38</teststep>
+    <teststep timestamp="2991.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2991.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 39</teststep>
+    <teststep timestamp="2997.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="2997.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 40</teststep>
+    <teststep timestamp="3002.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3002.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 41</teststep>
+    <teststep timestamp="3007.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3007.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 42</teststep>
+    <teststep timestamp="3012.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3012.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 43</teststep>
+    <teststep timestamp="3018.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3018.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 44</teststep>
+    <teststep timestamp="3023.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3023.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 45</teststep>
+    <teststep timestamp="3028.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3028.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 46</teststep>
+    <teststep timestamp="3033.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3033.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 47</teststep>
+    <teststep timestamp="3039.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3039.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 48</teststep>
+    <teststep timestamp="3044.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3044.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 49</teststep>
+    <teststep timestamp="3049.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3049.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 50</teststep>
+    <teststep timestamp="3054.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3054.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 51</teststep>
+    <teststep timestamp="3059.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3059.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 52</teststep>
+    <teststep timestamp="3065.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3065.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 53</teststep>
+    <teststep timestamp="3070.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3070.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 54</teststep>
+    <teststep timestamp="3075.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3075.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 55</teststep>
+    <teststep timestamp="3080.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3080.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 56</teststep>
+    <teststep timestamp="3086.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3086.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 57</teststep>
+    <teststep timestamp="3091.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3091.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 58</teststep>
+    <teststep timestamp="3096.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3096.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 59</teststep>
+    <teststep timestamp="3101.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3101.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 60</teststep>
+    <teststep timestamp="3107.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3107.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 61</teststep>
+    <teststep timestamp="3112.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3112.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 62</teststep>
+    <teststep timestamp="3117.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3117.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 63</teststep>
+    <teststep timestamp="3122.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3122.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 64</teststep>
+    <teststep timestamp="3128.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3128.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 65</teststep>
+    <teststep timestamp="3133.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3133.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 66</teststep>
+    <teststep timestamp="3138.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3138.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 67</teststep>
+    <teststep timestamp="3143.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3143.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 68</teststep>
+    <teststep timestamp="3149.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3149.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 69</teststep>
+    <teststep timestamp="3154.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3154.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 70</teststep>
+    <teststep timestamp="3159.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3159.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 71</teststep>
+    <teststep timestamp="3164.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3164.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 72</teststep>
+    <teststep timestamp="3170.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3170.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 73</teststep>
+    <teststep timestamp="3175.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3175.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 74</teststep>
+    <teststep timestamp="3180.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3180.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 75</teststep>
+    <teststep timestamp="3185.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3185.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 76</teststep>
+    <teststep timestamp="3190.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3190.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 77</teststep>
+    <teststep timestamp="3196.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3196.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 78</teststep>
+    <teststep timestamp="3201.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3201.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 79</teststep>
+    <teststep timestamp="3206.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3206.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 80</teststep>
+    <teststep timestamp="3211.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3211.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 81</teststep>
+    <teststep timestamp="3217.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3217.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 82</teststep>
+    <teststep timestamp="3222.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3222.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 83</teststep>
+    <teststep timestamp="3227.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3227.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 84</teststep>
+    <teststep timestamp="3232.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3232.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 85</teststep>
+    <teststep timestamp="3238.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3238.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 86</teststep>
+    <teststep timestamp="3243.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3243.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 87</teststep>
+    <teststep timestamp="3248.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3248.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 88</teststep>
+    <teststep timestamp="3253.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3253.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 89</teststep>
+    <teststep timestamp="3259.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3259.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 90</teststep>
+    <teststep timestamp="3264.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3264.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 91</teststep>
+    <teststep timestamp="3269.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3269.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 92</teststep>
+    <teststep timestamp="3274.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3274.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 93</teststep>
+    <teststep timestamp="3280.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3280.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 94</teststep>
+    <teststep timestamp="3285.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3285.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 95</teststep>
+    <teststep timestamp="3290.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3290.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 96</teststep>
+    <teststep timestamp="3295.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3295.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 97</teststep>
+    <teststep timestamp="3301.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3301.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 98</teststep>
+    <teststep timestamp="3306.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3306.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 99</teststep>
+    <teststep timestamp="3311.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3311.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 0  eng_sts = 2 batt = 100</teststep>
+    <teststep timestamp="3316.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3316.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 0</teststep>
+    <teststep timestamp="3321.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3321.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 1</teststep>
+    <teststep timestamp="3327.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3327.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 2</teststep>
+    <teststep timestamp="3332.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3332.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 3</teststep>
+    <teststep timestamp="3337.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3337.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 4</teststep>
+    <teststep timestamp="3342.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3342.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 5</teststep>
+    <teststep timestamp="3348.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3348.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 6</teststep>
+    <teststep timestamp="3353.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3353.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 7</teststep>
+    <teststep timestamp="3358.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3358.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 8</teststep>
+    <teststep timestamp="3363.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3363.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 9</teststep>
+    <teststep timestamp="3369.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3369.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 10</teststep>
+    <teststep timestamp="3374.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3374.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 11</teststep>
+    <teststep timestamp="3379.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3379.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 12</teststep>
+    <teststep timestamp="3384.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3384.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 13</teststep>
+    <teststep timestamp="3390.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3390.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 14</teststep>
+    <teststep timestamp="3395.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3395.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 15</teststep>
+    <teststep timestamp="3400.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3400.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 16</teststep>
+    <teststep timestamp="3405.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3405.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 17</teststep>
+    <teststep timestamp="3411.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3411.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 18</teststep>
+    <teststep timestamp="3416.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3416.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 19</teststep>
+    <teststep timestamp="3421.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3421.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 20</teststep>
+    <teststep timestamp="3426.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3426.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 21</teststep>
+    <teststep timestamp="3432.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3432.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 22</teststep>
+    <teststep timestamp="3437.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3437.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 23</teststep>
+    <teststep timestamp="3442.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3442.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 24</teststep>
+    <teststep timestamp="3447.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3447.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 25</teststep>
+    <teststep timestamp="3452.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3452.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 26</teststep>
+    <teststep timestamp="3458.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3458.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 27</teststep>
+    <teststep timestamp="3463.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3463.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 28</teststep>
+    <teststep timestamp="3468.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3468.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 29</teststep>
+    <teststep timestamp="3473.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3473.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 30</teststep>
+    <teststep timestamp="3479.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3479.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 31</teststep>
+    <teststep timestamp="3484.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3484.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 32</teststep>
+    <teststep timestamp="3489.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3489.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 33</teststep>
+    <teststep timestamp="3494.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3494.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 34</teststep>
+    <teststep timestamp="3500.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3500.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 35</teststep>
+    <teststep timestamp="3505.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3505.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 36</teststep>
+    <teststep timestamp="3510.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3510.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 37</teststep>
+    <teststep timestamp="3515.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3515.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 38</teststep>
+    <teststep timestamp="3521.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3521.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 39</teststep>
+    <teststep timestamp="3526.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3526.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 40</teststep>
+    <teststep timestamp="3531.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3531.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 41</teststep>
+    <teststep timestamp="3536.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3536.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 42</teststep>
+    <teststep timestamp="3542.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3542.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 43</teststep>
+    <teststep timestamp="3547.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3547.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 44</teststep>
+    <teststep timestamp="3552.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3552.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 45</teststep>
+    <teststep timestamp="3557.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3557.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 46</teststep>
+    <teststep timestamp="3563.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3563.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 47</teststep>
+    <teststep timestamp="3568.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3568.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 48</teststep>
+    <teststep timestamp="3573.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3573.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 49</teststep>
+    <teststep timestamp="3578.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3578.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 50</teststep>
+    <teststep timestamp="3583.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3583.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 51</teststep>
+    <teststep timestamp="3589.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3589.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 52</teststep>
+    <teststep timestamp="3594.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3594.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 53</teststep>
+    <teststep timestamp="3599.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3599.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 54</teststep>
+    <teststep timestamp="3604.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3604.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 55</teststep>
+    <teststep timestamp="3610.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3610.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 56</teststep>
+    <teststep timestamp="3615.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3615.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 57</teststep>
+    <teststep timestamp="3620.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3620.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 58</teststep>
+    <teststep timestamp="3625.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3625.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 59</teststep>
+    <teststep timestamp="3631.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3631.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 60</teststep>
+    <teststep timestamp="3636.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3636.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 61</teststep>
+    <teststep timestamp="3641.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3641.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 62</teststep>
+    <teststep timestamp="3646.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3646.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 63</teststep>
+    <teststep timestamp="3652.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3652.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 64</teststep>
+    <teststep timestamp="3657.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3657.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 65</teststep>
+    <teststep timestamp="3662.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3662.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 66</teststep>
+    <teststep timestamp="3667.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3667.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 67</teststep>
+    <teststep timestamp="3673.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3673.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 68</teststep>
+    <teststep timestamp="3678.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3678.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 69</teststep>
+    <teststep timestamp="3683.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3683.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 70</teststep>
+    <teststep timestamp="3688.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3688.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 71</teststep>
+    <teststep timestamp="3694.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3694.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 72</teststep>
+    <teststep timestamp="3699.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3699.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 73</teststep>
+    <teststep timestamp="3704.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3704.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 74</teststep>
+    <teststep timestamp="3709.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3709.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 75</teststep>
+    <teststep timestamp="3714.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3714.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 76</teststep>
+    <teststep timestamp="3720.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3720.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 77</teststep>
+    <teststep timestamp="3725.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3725.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 78</teststep>
+    <teststep timestamp="3730.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3730.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 79</teststep>
+    <teststep timestamp="3735.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3735.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 80</teststep>
+    <teststep timestamp="3741.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3741.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 81</teststep>
+    <teststep timestamp="3746.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3746.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 82</teststep>
+    <teststep timestamp="3751.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3751.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 83</teststep>
+    <teststep timestamp="3756.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3756.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 84</teststep>
+    <teststep timestamp="3762.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3762.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 85</teststep>
+    <teststep timestamp="3767.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3767.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 86</teststep>
+    <teststep timestamp="3772.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3772.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 87</teststep>
+    <teststep timestamp="3777.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3777.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 88</teststep>
+    <teststep timestamp="3783.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3783.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 89</teststep>
+    <teststep timestamp="3788.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3788.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 90</teststep>
+    <teststep timestamp="3793.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3793.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 91</teststep>
+    <teststep timestamp="3798.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3798.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 92</teststep>
+    <teststep timestamp="3804.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3804.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 93</teststep>
+    <teststep timestamp="3809.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3809.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 94</teststep>
+    <teststep timestamp="3814.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3814.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 95</teststep>
+    <teststep timestamp="3819.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3819.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 96</teststep>
+    <teststep timestamp="3825.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3825.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 97</teststep>
+    <teststep timestamp="3830.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3830.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 98</teststep>
+    <teststep timestamp="3835.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3835.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 99</teststep>
+    <teststep timestamp="3840.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3840.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 0 batt = 100</teststep>
+    <teststep timestamp="3845.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3845.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 0</teststep>
+    <teststep timestamp="3851.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3851.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 1</teststep>
+    <teststep timestamp="3856.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3856.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 2</teststep>
+    <teststep timestamp="3861.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3861.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 3</teststep>
+    <teststep timestamp="3866.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3866.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 4</teststep>
+    <teststep timestamp="3872.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3872.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 5</teststep>
+    <teststep timestamp="3877.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3877.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 6</teststep>
+    <teststep timestamp="3882.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3882.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 7</teststep>
+    <teststep timestamp="3887.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3887.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 8</teststep>
+    <teststep timestamp="3893.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3893.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 9</teststep>
+    <teststep timestamp="3898.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3898.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 10</teststep>
+    <teststep timestamp="3903.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3903.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 11</teststep>
+    <teststep timestamp="3908.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3908.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 12</teststep>
+    <teststep timestamp="3914.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3914.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 13</teststep>
+    <teststep timestamp="3919.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3919.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 14</teststep>
+    <teststep timestamp="3924.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3924.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 15</teststep>
+    <teststep timestamp="3929.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3929.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 16</teststep>
+    <teststep timestamp="3935.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3935.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 17</teststep>
+    <teststep timestamp="3940.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3940.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 18</teststep>
+    <teststep timestamp="3945.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3945.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 19</teststep>
+    <teststep timestamp="3950.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3950.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 20</teststep>
+    <teststep timestamp="3956.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3956.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 21</teststep>
+    <teststep timestamp="3961.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3961.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 22</teststep>
+    <teststep timestamp="3966.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3966.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 23</teststep>
+    <teststep timestamp="3971.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3971.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 24</teststep>
+    <teststep timestamp="3976.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3976.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 25</teststep>
+    <teststep timestamp="3982.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3982.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 26</teststep>
+    <teststep timestamp="3987.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3987.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 27</teststep>
+    <teststep timestamp="3992.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3992.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 28</teststep>
+    <teststep timestamp="3997.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="3997.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 29</teststep>
+    <teststep timestamp="4003.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4003.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 30</teststep>
+    <teststep timestamp="4008.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4008.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 31</teststep>
+    <teststep timestamp="4013.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4013.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 32</teststep>
+    <teststep timestamp="4018.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4018.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 33</teststep>
+    <teststep timestamp="4024.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4024.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 34</teststep>
+    <teststep timestamp="4029.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4029.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 35</teststep>
+    <teststep timestamp="4034.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4034.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 36</teststep>
+    <teststep timestamp="4039.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4039.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 37</teststep>
+    <teststep timestamp="4045.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4045.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 38</teststep>
+    <teststep timestamp="4050.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4050.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 39</teststep>
+    <teststep timestamp="4055.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4055.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 40</teststep>
+    <teststep timestamp="4060.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4060.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 41</teststep>
+    <teststep timestamp="4066.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4066.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 42</teststep>
+    <teststep timestamp="4071.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4071.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 43</teststep>
+    <teststep timestamp="4076.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4076.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 44</teststep>
+    <teststep timestamp="4081.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4081.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 45</teststep>
+    <teststep timestamp="4087.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4087.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 46</teststep>
+    <teststep timestamp="4092.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4092.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 47</teststep>
+    <teststep timestamp="4097.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4097.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 48</teststep>
+    <teststep timestamp="4102.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4102.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 49</teststep>
+    <teststep timestamp="4107.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4107.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 50</teststep>
+    <teststep timestamp="4113.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4113.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 51</teststep>
+    <teststep timestamp="4118.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4118.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 52</teststep>
+    <teststep timestamp="4123.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4123.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 53</teststep>
+    <teststep timestamp="4128.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4128.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 54</teststep>
+    <teststep timestamp="4134.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4134.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 55</teststep>
+    <teststep timestamp="4139.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4139.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 56</teststep>
+    <teststep timestamp="4144.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4144.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 57</teststep>
+    <teststep timestamp="4149.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4149.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 58</teststep>
+    <teststep timestamp="4155.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4155.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 59</teststep>
+    <teststep timestamp="4160.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4160.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 60</teststep>
+    <teststep timestamp="4165.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4165.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 61</teststep>
+    <teststep timestamp="4170.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4170.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 62</teststep>
+    <teststep timestamp="4176.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4176.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 63</teststep>
+    <teststep timestamp="4181.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4181.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 64</teststep>
+    <teststep timestamp="4186.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4186.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 65</teststep>
+    <teststep timestamp="4191.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4191.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 66</teststep>
+    <teststep timestamp="4197.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4197.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 67</teststep>
+    <teststep timestamp="4202.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4202.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 68</teststep>
+    <teststep timestamp="4207.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4207.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 69</teststep>
+    <teststep timestamp="4212.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4212.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 70</teststep>
+    <teststep timestamp="4218.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4218.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 71</teststep>
+    <teststep timestamp="4223.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4223.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 72</teststep>
+    <teststep timestamp="4228.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4228.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 73</teststep>
+    <teststep timestamp="4233.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4233.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 74</teststep>
+    <teststep timestamp="4238.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4238.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 75</teststep>
+    <teststep timestamp="4244.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4244.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 76</teststep>
+    <teststep timestamp="4249.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4249.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 77</teststep>
+    <teststep timestamp="4254.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4254.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 78</teststep>
+    <teststep timestamp="4259.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4259.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 79</teststep>
+    <teststep timestamp="4265.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4265.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 80</teststep>
+    <teststep timestamp="4270.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4270.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 81</teststep>
+    <teststep timestamp="4275.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4275.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 82</teststep>
+    <teststep timestamp="4280.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4280.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 83</teststep>
+    <teststep timestamp="4286.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4286.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 84</teststep>
+    <teststep timestamp="4291.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4291.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 85</teststep>
+    <teststep timestamp="4296.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4296.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 86</teststep>
+    <teststep timestamp="4301.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4301.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 87</teststep>
+    <teststep timestamp="4307.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4307.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 88</teststep>
+    <teststep timestamp="4312.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4312.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 89</teststep>
+    <teststep timestamp="4317.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4317.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 90</teststep>
+    <teststep timestamp="4322.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4322.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 91</teststep>
+    <teststep timestamp="4328.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4328.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 92</teststep>
+    <teststep timestamp="4333.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4333.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 93</teststep>
+    <teststep timestamp="4338.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4338.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 94</teststep>
+    <teststep timestamp="4343.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4343.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 95</teststep>
+    <teststep timestamp="4349.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4349.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 96</teststep>
+    <teststep timestamp="4354.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4354.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 97</teststep>
+    <teststep timestamp="4359.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4359.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 98</teststep>
+    <teststep timestamp="4364.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4364.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 99</teststep>
+    <teststep timestamp="4369.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4369.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 1 batt = 100</teststep>
+    <teststep timestamp="4375.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4375.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 0</teststep>
+    <teststep timestamp="4380.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4380.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 1</teststep>
+    <teststep timestamp="4385.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4385.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 2</teststep>
+    <teststep timestamp="4390.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4390.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 3</teststep>
+    <teststep timestamp="4396.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4396.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 4</teststep>
+    <teststep timestamp="4401.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4401.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 5</teststep>
+    <teststep timestamp="4406.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4406.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 6</teststep>
+    <teststep timestamp="4411.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4411.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 7</teststep>
+    <teststep timestamp="4417.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4417.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 8</teststep>
+    <teststep timestamp="4422.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4422.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 9</teststep>
+    <teststep timestamp="4427.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4427.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 10</teststep>
+    <teststep timestamp="4432.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4432.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 11</teststep>
+    <teststep timestamp="4438.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4438.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 12</teststep>
+    <teststep timestamp="4443.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4443.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 13</teststep>
+    <teststep timestamp="4448.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4448.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 14</teststep>
+    <teststep timestamp="4453.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4453.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 15</teststep>
+    <teststep timestamp="4459.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4459.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 16</teststep>
+    <teststep timestamp="4464.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4464.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 17</teststep>
+    <teststep timestamp="4469.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4469.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 18</teststep>
+    <teststep timestamp="4474.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4474.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 19</teststep>
+    <teststep timestamp="4480.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4480.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 20</teststep>
+    <teststep timestamp="4485.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4485.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 21</teststep>
+    <teststep timestamp="4490.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4490.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 22</teststep>
+    <teststep timestamp="4495.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4495.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 23</teststep>
+    <teststep timestamp="4500.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4500.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 24</teststep>
+    <teststep timestamp="4506.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4506.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 25</teststep>
+    <teststep timestamp="4511.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4511.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 26</teststep>
+    <teststep timestamp="4516.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4516.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 27</teststep>
+    <teststep timestamp="4521.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4521.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 28</teststep>
+    <teststep timestamp="4527.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4527.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 29</teststep>
+    <teststep timestamp="4532.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4532.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 30</teststep>
+    <teststep timestamp="4537.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4537.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 31</teststep>
+    <teststep timestamp="4542.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4542.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 32</teststep>
+    <teststep timestamp="4548.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4548.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 33</teststep>
+    <teststep timestamp="4553.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4553.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 34</teststep>
+    <teststep timestamp="4558.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4558.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 35</teststep>
+    <teststep timestamp="4563.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4563.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 36</teststep>
+    <teststep timestamp="4569.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4569.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 37</teststep>
+    <teststep timestamp="4574.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4574.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 38</teststep>
+    <teststep timestamp="4579.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4579.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 39</teststep>
+    <teststep timestamp="4584.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4584.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 40</teststep>
+    <teststep timestamp="4590.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4590.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 41</teststep>
+    <teststep timestamp="4595.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4595.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 42</teststep>
+    <teststep timestamp="4600.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4600.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 43</teststep>
+    <teststep timestamp="4605.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4605.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 44</teststep>
+    <teststep timestamp="4611.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4611.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 45</teststep>
+    <teststep timestamp="4616.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4616.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 46</teststep>
+    <teststep timestamp="4621.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4621.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 47</teststep>
+    <teststep timestamp="4626.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4626.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 48</teststep>
+    <teststep timestamp="4631.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4631.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 49</teststep>
+    <teststep timestamp="4637.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4637.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 50</teststep>
+    <teststep timestamp="4642.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4642.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 51</teststep>
+    <teststep timestamp="4647.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4647.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 52</teststep>
+    <teststep timestamp="4652.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4652.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 53</teststep>
+    <teststep timestamp="4658.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4658.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 54</teststep>
+    <teststep timestamp="4663.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4663.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 55</teststep>
+    <teststep timestamp="4668.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4668.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 56</teststep>
+    <teststep timestamp="4673.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4673.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 57</teststep>
+    <teststep timestamp="4679.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4679.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 58</teststep>
+    <teststep timestamp="4684.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4684.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 59</teststep>
+    <teststep timestamp="4689.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4689.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 60</teststep>
+    <teststep timestamp="4694.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4694.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 61</teststep>
+    <teststep timestamp="4700.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4700.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 62</teststep>
+    <teststep timestamp="4705.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4705.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 63</teststep>
+    <teststep timestamp="4710.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4710.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 64</teststep>
+    <teststep timestamp="4715.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4715.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 65</teststep>
+    <teststep timestamp="4721.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4721.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 66</teststep>
+    <teststep timestamp="4726.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4726.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 67</teststep>
+    <teststep timestamp="4731.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4731.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 68</teststep>
+    <teststep timestamp="4736.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4736.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 69</teststep>
+    <teststep timestamp="4742.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4742.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 70</teststep>
+    <teststep timestamp="4747.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4747.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 71</teststep>
+    <teststep timestamp="4752.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4752.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 72</teststep>
+    <teststep timestamp="4757.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4757.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 73</teststep>
+    <teststep timestamp="4762.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4762.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 74</teststep>
+    <teststep timestamp="4768.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4768.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 75</teststep>
+    <teststep timestamp="4773.467774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4773.467774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 76</teststep>
+    <teststep timestamp="4778.707774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4778.707774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 77</teststep>
+    <teststep timestamp="4783.947774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4783.947774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 78</teststep>
+    <teststep timestamp="4789.187774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4789.187774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 79</teststep>
+    <teststep timestamp="4794.427774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4794.427774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 80</teststep>
+    <teststep timestamp="4799.667774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4799.667774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 81</teststep>
+    <teststep timestamp="4804.907774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4804.907774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 82</teststep>
+    <teststep timestamp="4810.147774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4810.147774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 83</teststep>
+    <teststep timestamp="4815.387774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4815.387774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 84</teststep>
+    <teststep timestamp="4820.627774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4820.627774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 85</teststep>
+    <teststep timestamp="4825.867774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4825.867774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 86</teststep>
+    <teststep timestamp="4831.107774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4831.107774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 87</teststep>
+    <teststep timestamp="4836.347774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4836.347774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 88</teststep>
+    <teststep timestamp="4841.587774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4841.587774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 89</teststep>
+    <teststep timestamp="4846.827774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4846.827774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 90</teststep>
+    <teststep timestamp="4852.067774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4852.067774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 91</teststep>
+    <teststep timestamp="4857.307774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4857.307774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 92</teststep>
+    <teststep timestamp="4862.547774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4862.547774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 93</teststep>
+    <teststep timestamp="4867.787774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4867.787774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 94</teststep>
+    <teststep timestamp="4873.027774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4873.027774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 95</teststep>
+    <teststep timestamp="4878.267774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4878.267774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 96</teststep>
+    <teststep timestamp="4883.507774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4883.507774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 97</teststep>
+    <teststep timestamp="4888.747774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4888.747774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 98</teststep>
+    <teststep timestamp="4893.987774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4893.987774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 99</teststep>
+    <teststep timestamp="4899.227774" level="0" type="user" ident="1.0" result="na">d</teststep>
+    <teststep timestamp="4899.227774" level="0" type="user" ident="1.0" result="fail">ig_sts = 1  eng_sts = 2 batt = 100</teststep>
+    <verdict time="2024-01-25 04:40:51" timestamp="1729.027774" endtime="2024-01-25 04:41:07" endtimestamp="4899.227774" result="fail" />
+    <title>IVS BlackBox Test Case - Battery Charging error</title>
+    <ident>TC 2</ident>
+    <description>Test case is used to check the ability of the SUT to switch  into the build-in diagnostic and test mode. The test case does  not change test settings within the deviar. \n SW Ver [20240122_143248 - 02]</description>
+  </testcase>
+  <verdict time="2024-01-25 04:40:51" timestamp="1729.027774" endtime="2024-01-25 04:41:07" endtimestamp="4899.227774" result="fail" />
+  <title>TC2</title>
+  <testlogfiles>
+  </testlogfiles>
+  <engineer>
+    <xinfo>
+      <name>Windows Login Name</name>
+      <description>USER</description>
+    </xinfo>
+    <info>
+      <name>Test Engineer : </name>
+      <description>SangHo Lee(lk4820asdf@gmail.com)</description>
+    </info>
+  </engineer>
+  <testsetup>
+    <xinfo>
+      <name>Version</name>
+      <description>CANoe.CAN /pro 17.3.91 (SP3)</description>
+    </xinfo>
+    <xinfo>
+      <name>Configuration</name>
+      <description>C:\HL_BlackBox_testing\blackbox_test\blackbox_test.cfg</description>
+    </xinfo>
+    <xinfo>
+      <name>Database IVS_CANdb_Project on CAN</name>
+      <description>C:\Users\USER\Downloads\IVS_CANdb_Project.dbc (2024-01-23 09:55:14)</description>
+    </xinfo>
+    <xinfo>
+      <name>Test Module Name</name>
+      <description>TC2</description>
+    </xinfo>
+    <xinfo>
+      <name>Test Module File</name>
+      <description>C:\HL_BlackBox_testing\blackbox_test\CAPL\main_Test2.can</description>
+    </xinfo>
+    <xinfo>
+      <name>Last modification of Test Module File</name>
+      <description>2024-01-25, 04:12:19</description>
+    </xinfo>
+    <xinfo>
+      <name>Windows Computer Name</name>
+      <description>DESKTOP-AGMDB8M</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module CANoeILNLVector</name>
+      <description>CANoe Interaction Layer NL (Vector) Version 3.30.113 (Feb 16 2023 15:33:52) , c:\ProgramData\Vector\AddOn Packages\Vector AddOn\vModules\CANoe_14_0\Exec32\CANoeILNLVector.dll</description>
+    </xinfo>
+  </testsetup>
+  <extendedinfo type="html"><![CDATA[<b>Measurement was performed with simulation factor 0.005.</b>]]></extendedinfo>
+</testmodule>
+<!--footprint="ad59d6de6c1494a0e79ad5ae6c3d0831" version="1"-->

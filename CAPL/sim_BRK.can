@@ -1,0 +1,43 @@
+﻿/*@!Encoding:65001*/
+includes
+{
+  
+}
+
+variables
+{
+  msTimer BRK_01_10ms_Timer;
+  message BRK_01_10ms BRK_01_10ms;
+  byte BRK_01_10ms_Timer_p = 10;
+}
+
+on start 
+{
+  setTimerCyclic(BRK_01_10ms_Timer,BRK_01_10ms_Timer_p,BRK_01_10ms_Timer_p);
+}
+
+
+
+on timer BRK_01_10ms_Timer 
+{
+  output(BRK_01_10ms);
+}
+
+
+on sysvar BRK::Brake_press
+{
+  BRK_01_10ms.Brake_press = @this;
+}
+
+on sysvar BRK::ACCEL_press
+{
+  BRK_01_10ms.ACCEL_press = @this;
+}
+
+
+on sysvar BRK::Vehicle_Speed
+{
+  BRK_01_10ms.Vehicle_Speed = @this;
+  
+  // 가속구현 아직 미정
+}
